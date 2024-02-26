@@ -1,1 +1,2 @@
-This is some file to show git diff:
+mAKING SOME CHANGE
+This is some file to show git command "GIT DIFF":
