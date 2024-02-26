@@ -1,2 +1,0 @@
-mAKING SOME CHANGE
-This is some file to show git command "GIT DIFF":
